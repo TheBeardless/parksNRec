@@ -1,0 +1,21 @@
+{
+  "name": "parksnrec",
+  "displayName": "Parks N Rec",
+  "description": "A relaxing stroll in the park theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ParksNRecTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/parksNRec-color-theme.json"
+      }
+    ]
+  }
+}
