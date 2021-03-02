@@ -10,6 +10,7 @@
     "color": "#aa5212",
     "theme": "dark"
   },
+  "icon": "assets/icon.png",
   "homepage": "https://github.com/TheBeardless/parksNRec",
   "repository": {
     "type": "git",
