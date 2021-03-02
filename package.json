@@ -10,13 +10,13 @@
     "color": "#aa5212",
     "theme": "dark"
   },
-  "homepage": "github page",
+  "homepage": "https://github.com/TheBeardless/parksNRec",
   "repository": {
     "type": "git",
-    "url": "github page"
+    "url": "https://github.com/TheBeardless/parksNRec"
   },
   "bugs": {
-    "url": "https://github.com/me/mytheme/issues"
+    "url": "https://github.com/TheBeardless/parksNRec/issues"
   },
   "categories": [
     "Themes"

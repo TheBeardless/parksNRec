@@ -53,7 +53,7 @@ VSCode Settings:
 ```
 
 ## Issues and Feedback
-If you find any issues, bugs, missing stylings or feedback please feel free to [file an issue](https://github.com/me/mytheme/issues).
+If you find any issues, bugs, missing stylings or feedback please feel free to [file an issue](https://github.com/TheBeardless/parksNRec/issues).
 
 This is only the beginning - I just wanted this for myself but I'm happy grow this little seedling into a tree.  
 This theme has only been tested for JavaScript, React, CSS, and HTML. Other languages are not tested.
