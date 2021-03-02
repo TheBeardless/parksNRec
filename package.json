@@ -11,6 +11,11 @@
     "theme": "dark"
   },
   "icon": "assets/icon.png",
+  "author": {
+    "name": "Jake Webster",
+    "email": "jakepeterwebster@gmail.com",
+    "url": "https://github.com/TheBeardless"
+  },
   "homepage": "https://github.com/TheBeardless/parksNRec",
   "repository": {
     "type": "git",
