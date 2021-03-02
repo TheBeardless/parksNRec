@@ -1,12 +1,28 @@
 {
   "name": "parksnrec",
   "displayName": "Parks N Rec",
-  "description": "A relaxing stroll in the park theme",
-  "version": "0.0.1",
+  "description": "A relaxing stroll in the park",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.53.0"
   },
+  "galleryBanner": {
+    "color": "#aa5212",
+    "theme": "dark"
+  },
+  "homepage": "github page",
+  "repository": {
+    "type": "git",
+    "url": "github page"
+  },
+  "bugs": {
+    "url": "https://github.com/me/mytheme/issues"
+  },
   "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
     "Themes"
   ],
   "contributes": {

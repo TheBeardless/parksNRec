@@ -101,8 +101,8 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#12aa52",
-				"fontStyle": "bold",
+				"foreground": "#12aa52"
+				// "fontStyle": "bold",
 			}
 		},
 		{
@@ -114,12 +114,11 @@
 				"fontStyle": "italic bold",
 			}
 		},
-		{
+    {
       "name": "Parameter",
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
-				"foreground": "#d9534f"
+        "fontStyle": "italic"
       }
     },
 		{
@@ -288,13 +287,6 @@
       }
     },
 		{
-      "name": "JS object path",
-      "scope": "variable.other.constant.property.js, variable.other.property.js, variable.other.object, variable.other.constant.js",
-      "settings": {
-        "foreground": "#fff"
-      },
-    },
-		{
 			"name": "Number, Function Argument, Tag Attribute, Embedded",
 			"scope": [
 				"constant",
@@ -303,7 +295,6 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
@@ -389,7 +380,7 @@
       "name": "CSS support functions (rgb)",
       "scope": "support.function.misc.css",
       "settings": {
-        "foreground": "#d9534f"
+        "foreground": "#12aa52"
       }
     },
 		{
