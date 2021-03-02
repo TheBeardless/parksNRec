@@ -1,4 +1,11 @@
-# Parks n Rec
+## Disclosure
+Roses are red,  
+Park benches are brown,  
+The theme isn't about the show,  
+That's kind of a let down.  
+![RonSwansonGIF](/assets/RonSwansonGIF.gif)  
+Sorry!
+But, it's a nice blend of greens - like a park.
 
 ## Screenshots
 ### JavaScript
@@ -9,15 +16,6 @@
 ![codePreview](/assets/html.png)
 ### Markdown
 ![codePreview](/assets/markdown.png)
-
-## Disclosure
-Roses are red,  
-Park benches are brown,  
-The theme isn't about the show,  
-That's kind of a let down.  
-![RonSwansonGIF](/assets/RonSwansonGIF.gif)  
-Sorry!
-But, it's a nice blend of greens - like a park.
 
 ## Installing
 
