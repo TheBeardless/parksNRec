@@ -13,3 +13,8 @@ Upcoming Releases:
 ___
 
 - Uploaded to Github
+
+## [1.0.1] - 2021-03-14
+___
+
+- Clarity changes for viewing in React
