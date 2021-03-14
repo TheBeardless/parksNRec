@@ -3,19 +3,19 @@ Roses are red,
 Park benches are brown,  
 The theme isn't about the show,  
 That's kind of a let down.  
-![RonSwansonGIF](/assets/RonSwansonGIF.gif)  
+![RonSwansonGIF](https://raw.githubusercontent.com/TheBeardless/parksNRec/master/assets/RonSwansonGIF.gif?token=ADBHWFMLMNU3E6UUJAQSN23AHYDZC)  
 Sorry!
 But, it's a nice blend of greens - like a park.
 
 ## Screenshots
 ### JavaScript
-![codePreview](/assets/javascipt.png)
+![codePreviewJavascript](https://github.com/TheBeardless/parksNRec/blob/master/assets/javascipt.png?raw=true)
 ### CSS
-![codePreview](/assets/css.png)
+![codePreviewCSS](https://github.com/TheBeardless/parksNRec/blob/master/assets/css.png?raw=true)
 ### HTML
-![codePreview](/assets/html.png)
+![codePreviewHTML](https://github.com/TheBeardless/parksNRec/blob/master/assets/html.png?raw=true)
 ### Markdown
-![codePreview](/assets/markdown.png)
+![codePreviewMarkdown](https://github.com/TheBeardless/parksNRec/blob/master/assets/markdown.png?raw=true)
 
 ## Installing
 

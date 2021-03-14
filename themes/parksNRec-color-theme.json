@@ -35,10 +35,10 @@
 		"dropdown.border": "#0c0c0c",
 		"dropdown.foreground": "#B0B3B8",
 		"dropdown.listBackground": "#0c0c0c",
-		// rightmost bar
-		"scrollbarSlider.background": "#0c0c0c",
-		"scrollbarSlider.hoverBackground": "#12aa52",
-		"scrollbarSlider.activeBackground": "#0c0c0c",
+		// bottom and right scrollbar
+		"scrollbarSlider.background": "#12aa5175",
+		"scrollbarSlider.hoverBackground": "#12aa51d0",
+		"scrollbarSlider.activeBackground": "#12aa5175",
 		// left most bar
 		"activityBarBadge.background": "#12aa52",
 		"activityBarBadge.foreground": "#e6e6e6",
